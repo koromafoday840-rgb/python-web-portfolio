@@ -1,23 +1,3 @@
-#for number in range(10, 0, -1):
- # print(number)
-#count_sum = 0
-#for number in range(2, 21, 2):
-#  count_sum += number
- # print(count_sum)
-
-#for number in range (10, 0, -1):
-  
- # print(number)
-
-
-#for i in (1, 2 ,3 ,4 ,5):
-#
-#names = 'Foday', 'John', 'Marie' 
-#scores = 90,76,89,45
-
-#for name in names:
- # for score in scores:
-# Python Web Portfolio
 def validate_user_data(age_text, payment_received):
     """
     Demonstrates type safety by converting string input to integers.
