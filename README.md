@@ -1,5 +1,5 @@
 # 🚀 My Python Web Portfolio
-
+Status: Beginner - Developing foundational skills in Python logic and Web Development with Flask.
 Welcome! This repository tracks my journey from learning Python basics to building functional web applications.
 
 ## 🛠️ Projects & Features
@@ -15,3 +15,5 @@ Welcome! This repository tracks my journey from learning Python basics to buildi
 * **Languages**: Python (Logic & Flask).
 * **Web**: HTML Forms, POST requests.
 * **Tools**: Git, GitHub, Replit.
+🧠 Logic & Debugging Process
+I use Mechanical Execution Tracing to manually verify my code logic before implementation.
