@@ -1,7 +1,7 @@
 # Learning Python through Logic & Trace Tables
 I started this portfolio because I wanted to see if I could actually turn my math notes into working web apps. Python felt like the best place to start because of its logic
 
-## 🛠️ Projects & Features
+## Projects & Features
 ##  Project Highlights
 
 * **[Age Calculator - Flask](./age-calculator-flask)**: I built this functional web app to practice handling user input and real-time calculations.
