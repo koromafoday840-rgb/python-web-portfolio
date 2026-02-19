@@ -1,8 +1,8 @@
-# 🎂 Age Calculator (Flask)
-**Concept:** Data Validation & Typecasting in Web Frameworks.
+#  Age Calculator (Flask)
+**What I practiced:** Learning how to handle user input in a web app.
 
-### 🧠 Logic
-This project uses `try-except` blocks to ensure user input is a valid integer before performing calculations.
+###  Logic
+This project uses `try-except` blocks to make sure the app doesn't crash if someone types letters instead of numbers before performing calculations.
 
-### 📸 Execution Trace
-[Insert Link to your handwritten notebook photo here]
+###  Manual Calculation
+I manually tested the math (Current Year - Birth Year) with several different dates before writing the Flask route. This ensured that the logic was solid before I integrated it into the web interface.
