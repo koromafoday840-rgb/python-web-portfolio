@@ -1,5 +1,5 @@
 # 🔄 Concept Study: The Accumulator Pattern
-**Technical Focus:** Variable State Management & Iterative Logic
+**What I am practicing:** Variable State Management & Iterative Logic
 
 ### 💡 The Concept
 An accumulator is a variable used to "collect" or "accumulate" data over time within a loop. This is the foundation of sums, products, and complex data processing.
@@ -13,5 +13,5 @@ Before writing the code, I manually verified the state changes:
 - **Iteration 3:** `6 + 3 = 9`
 
 ### 📝 Proof of Work (Handwritten Logic)
-I use Mechanical Execution Tracing on paper to master the underlying algorithm before implementation.
+I use Mechanical Execution Tracing to master the logic on paper before I touch the keyboard.
 ![Handwritten Logic Trace](./IMG_20260210_150851.jpg)
