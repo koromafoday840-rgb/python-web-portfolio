@@ -14,3 +14,4 @@ Before writing the code, I manually verified the state changes:
 
 ### 📝 Proof of Work (Handwritten Logic)
 I use Mechanical Execution Tracing on paper to master the underlying algorithm before implementation.
+![Handwritten Logic Trace](./IMG_20260210_150851.jpg)
