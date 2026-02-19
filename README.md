@@ -1,16 +1,16 @@
 # 🚀 My Python Web Portfolio
-Status: Beginner - Developing foundational skills in Python logic and Web Development with Flask.
-Welcome! This repository tracks my journey from learning Python basics to building functional web applications.
+I built this repository to document how I'm mastering Python, from core logic to web apps. I believe in solving the math on paper before I touch the keyboard to ensure my code is bug-free from the start.
 
 ## 🛠️ Projects & Features
-* **Interactive Age Calculator**: A Flask web app that takes user input, performs typecasting, and returns calculated data.
-* **Data Validation**: Python logic that demonstrates `try/except` blocks to handle input errors safely.
-* **String Manipulation**: Practice with Python methods like `.replace()` and case sensitivity.
+## 📂 Project Highlights
+
+* **[Age Calculator - Flask](./age-calculator-flask)**: I built this functional web app to practice handling user input and real-time calculations.
+
+* **[Accumulator Logic Study](./accumulator-logic-study)**: I used this to master iterative state changes. It includes my handwritten notebook trace.
 
 ## 📂 Organization
-* `main.py`: The primary web server and active project code.
-* `practice.py`: A dedicated space for my "original work" and daily logic exercises.
-
+* **Modular Structure**: I organized my repository into dedicated project folders for better maintainability.
+* **Practice Lab**: A space for my original exercises and daily coding challenges.
 ## 💻 Technical Skills
 * **Languages**: Python (Logic & Flask).
 * **Web**: HTML Forms, POST requests.
