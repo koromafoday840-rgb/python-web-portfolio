@@ -1,21 +1,19 @@
-# Learning Python through Logic & Trace Tables
-I started this portfolio because I wanted to see if I could actually turn my math notes into working web apps. Python felt like the best place to start because of its logic
+# Backend Mastery Lab: Logic, Traceability & Flask Systems
 
-## Projects & Features
-##  Project Highlights
+> **Status:** Actively Maintained | **Focus:** Algorithmic Rigor & Backend Architecture
 
-* **[Age Calculator - Flask](./age-calculator-flask)**: I built this functional web app to practice handling user input and real-time calculations.
+This repository serves as my technical lab. It documents my transition from basic scripting to building structured, trace-verified web applications using Python and Flask.
 
-* **[Accumulator Logic Study](./accumulator-logic-study)**: I used this to master iterative state changes. It includes my handwritten notebook trace.
+## Core Projects
+* **[Age Calculator - Flask](./age-calculator-flask):** Functional web app handling dynamic user input and real-time computation.
+* **[Accumulator Logic Study](./accumulator-logic-study):** Deep dive into iterative state changes and algorithmic flow. 
+* **[Student Score Logic](./student-score-tracker):** A challenge to bypass high-level "shortcuts" by implementing manual loops to verify logic.
 
-* **[Student Score Logic](./student-score-tracker)**: This is a project where I stopped using Python shortcuts to see if I could find the highest score manually using a loop. It's my way of making sure I actually understand how the computer looks through data one step at a time.
-##  Organization
+## Engineering Standards
+* **Mechanical Execution Tracing:** Every logic module in this lab is verified via manual trace tables before being written into code. 
+* **Modular Architecture:** Projects are siloed into dedicated directories to ensure maintainability and professional scalability.
 
-* **Modular Structure**: I organized my repository into dedicated project folders for better maintainability.
-* **Practice Lab**: A space for my original exercises and daily coding challenges.
-## Technical Skills
-* **Languages**: Python (Logic & Flask).
-* **Web**: HTML Forms, POST requests.
-* **Tools**: Git, GitHub, Replit.
-Logic & Debugging Process
-I use Mechanical Execution Tracing to manually verify my code logic before building it.
+## Tech Stack
+* **Languages:** Python
+* **Web:** Flask, HTML5, POST/GET Requests
+* **Tools:** Git, Replit, Manual Execution Tracing
