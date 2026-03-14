@@ -1,29 +1,22 @@
-# Student Score Tracker
+# Student Score Tracker: Dictionary-Based Aggregator
 
-I built this project to master Python logic from the ground up. Instead of just using built-in shortcuts, I wanted to see exactly how a computer loops through data to find results. 
+A Python-based utility designed to process student performance data. This project focuses on handling complex nested data structures and ensuring computational accuracy through manual state verification.
 
-## Why I Built This
-* **Logic over Shortcuts**: I used manual loops to find the highest scores to prove I understand the fundamental execution logic.
-* **Clean Data Management**: I organized messy lists into nested dictionaries for faster, cleaner access to student records.
-* **Error Resilience**: I implemented checks to handle missing data so the script never crashes.
+## Technical Implementation
 
-## What I Mastered
-* **Nested Dictionaries**: Creating complex data structures to store information logically.
-* **Algorithmic Thinking**: Tracing how variables change inside a loop to verify my logic.
+* **Nested State Management**: Implements a dictionary-of-dictionaries structure to group multi-subject scores by student identity.
+* **Defensive Aggregation**: Utilizes `setdefault()` for safe dictionary initialization and `try/except` blocks to handle potential `ZeroDivisionError` during average calculations.
+* **Data Integrity**: Processes raw student records into structured averages for both individual subjects and overall performance.
 
-## What I Mastered
-* **Nested Dictionaries**: Creating complex data structures to store information logically.
-* **Algorithmic Thinking**: Tracing how variables change inside a loop to verify my logic.
+## Logic Validation: Mechanical Execution Trace
 
-### Logic Verification: Mechanical Execution Trace
-To ensure the accuracy of the data transformation logic, I manually traced the dictionary state for all 10 records.
+To ensure the grouping and averaging algorithms function correctly, the system state was manually mapped through every iteration. This "mechanical autopsy" confirms that the code handles memory and variable transitions exactly as intended.
 
-![Manual Trace Table](17734938508965738068697120692348_07c9b4.jpg)
+![Manual Trace Table](IMG_20260314_131636.jpg)
 
-## How to Run
-```bash
-python student-score-tracker/student_logic.py
+## Execution Instructions
 
-## How to Run
+Ensure you are in the project root directory, then run:
+
 ```bash
 python student-score-tracker/student_logic.py
