@@ -22,7 +22,7 @@ To ensure the accuracy of the data transformation logic, I manually traced the d
 
 ## How to Run
 ```bash
-python student-score-tracker/student_logic.p
+python student-score-tracker/student_logic.py
 
 ## How to Run
 ```bash
