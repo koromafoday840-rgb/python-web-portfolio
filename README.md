@@ -16,7 +16,10 @@
 ![Flask](https://img.shields.io)
 ![Git](https://img.shields.io)
 
-## 📂 Project Structure
+## 📁 Project Structure
+- **/phonebook-manager**: 
+  - `manager.py`: Core logic for the contact management system.
+  - `README.md`: Documentation explaining the project's mechanical trace and usage.
 - **/logic-accumulator**: Core Python logic exercises.
 - **/score-tracker**: A functional student performance tracking system.
 - **/assets**: Professional documentation and visual demos.
