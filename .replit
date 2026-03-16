@@ -1,45 +1,8 @@
-entrypoint ="student_score_tracker.py"
+run = "python3 phonebook-manager/manager.py"
 modules = ["python-3.11"]
 
 [nix]
-channel = "stable-25_05"
-
-[unitTest]
-language = "python3"
-
-[gitHubImport]
-requiredFiles = [".replit", "replit.nix"]
-
-[deployment]
-run = ["python3", "student_score_tracker.py"]
-deploymentTarget = "cloudrun"
+packages = ["nano"]
 
 [agent]
 expertMode = true
-
-[workflows]
-runButton = "Project"
-
-[[workflows.workflow]]
-name = "Project"
-mode = "parallel"
-author = "agent"
-
-[[workflows.workflow.tasks]]
-task = "workflow.run"
-args = "Run Python"
-
-[[workflows.workflow]]
-name = "Run Python"
-author = "agent"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "python3 student_score_tracker.py"
-
-[workflows.workflow.metadata]
-outputType = "console"
-
-[[ports]]
-localPort = 81
-externalPort = 80
