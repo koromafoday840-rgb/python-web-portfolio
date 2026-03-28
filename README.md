@@ -25,3 +25,6 @@
 - **/assets**: Professional documentation and visual demos.
 * **/profile-settings:** * `settings.py`: A CRUD-based system for managing user preferences.
     * `README.md`: Documentation covering the logic trace and data-type validation (Boolean/Integer handling).
+* `/invoice-consolidation-system`:
+    * `invoice-system.py`: Core logic for aggregating sales and merging duplicate items.
+    * `README.md`: Technical breakdown of the search-before-insert (upsert) algorithm.
