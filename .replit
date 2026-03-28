@@ -1,4 +1,7 @@
-run = "python3 profile-settings/settings.py"
+modules = ["python-3.11"]
+run = "python invoice-consolidation-system/invoice-system.py"
+
+[nix]
 
 [agent]
 expertMode = true
