@@ -1,0 +1,3 @@
+Invoice: INV001
+Rice Qty: 6 Price: 20 Line Total: 120
+Grand Total: 429
