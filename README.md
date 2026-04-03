@@ -11,10 +11,12 @@
 - [/] **Phase 3: Backend Basics** (Flask, API Design)
 - [ ] **Phase 4: Database Mastery** (PostgreSQL, SQL Alchemy)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io)
-![Flask](https://img.shields.io)
-![Git](https://img.shields.io)
+### 🛠 Tech Stack
+![Python](https://shields.io)
+![Flask](https://shields.io)
+![Git](https://shields.io)
+![PostgreSQL](https://shields.io)
+
 
 ## 📁 Project Structure
 - **/phonebook-manager**: 
